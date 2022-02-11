@@ -1,5 +1,5 @@
 ## Cisco Packet Tracer
-### Experiments in the creation and interaction of various simple networks 
+### Experiments in the creation and interaction of various simple networks. 
 
 ### [ CPT0201.pkt ]  
 <img src="https://github.com/VoltG3/CiscoPacketTracer/blob/master/img/CPT0201.png" style ="width: 50%;" alt="img"> 

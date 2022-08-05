@@ -1,5 +1,6 @@
 ## Cisco Packet Tracer
-### Experiments in the creation and interaction of various simple networks. 
+Interaction of various simple networks  
+Network tools: https://www.netacad.com/courses/packet-tracer
 
 ### [ CPT0201.pkt ]  
 <img src="https://github.com/VoltG3/CiscoPacketTracer/blob/master/img/CPT0201.png" style ="width: 50%;" alt="img"> 
@@ -20,4 +21,4 @@
 <img src="https://github.com/VoltG3/CiscoPacketTracer/blob/master/img/CPT0603.png" style ="width: 50%;" alt="img"> 
 
 ### [ CPT0604.pkt ]  
-<img src="https://github.com/VoltG3/CiscoPacketTracer/blob/master/img/CPT0604.png" style ="width: 50%;" alt="img"> 
+<img src="https://github.com/VoltG3/CiscoPacketTracer/blob/master/img/CPT0604.png" style ="width: 50%;" alt="img">  
